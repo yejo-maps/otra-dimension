@@ -1,4 +1,22 @@
+@font-face {
+    font-family: 'nunito_sansregular';
+    src: url('../fonts/nunitosans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/nunitosans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'nunito_sanslight';
+    src: url('../fonts/nunitosans-light-webfont.woff2') format('woff2'),
+         url('../fonts/nunitosans-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 .my-name {
-    font-family: 'nunito_sanslight', 'sans-serif';
+    font-family: 'nunito_sansregular', sans-serif;
     font-size: 4rem;
 }
