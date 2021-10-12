@@ -1,3 +1,4 @@
 .my-name {
-    font-family: 'nunito_sansregular';
+    font-family: 'nunito_sansregular', 'sans-serif';
+    font-size: 4rem;
 }
