@@ -20,3 +20,9 @@
     font-family: 'nunito_sansregular', sans-serif;
     font-size: 4rem;
 }
+
+.name-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
